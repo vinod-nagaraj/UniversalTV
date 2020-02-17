@@ -6,6 +6,6 @@ public class UniversalRoleEnum {
 		
 	}
 	public enum Role {
-		ADMIN, SALES_PERSON;
+		ADMIN, SALESPERSON;
 	}
 }
